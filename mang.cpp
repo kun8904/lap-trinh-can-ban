@@ -51,10 +51,6 @@ void dele(int n[], int &x){
 	}
 }
 
-
-
-
-
 int main() {
     int luachon, x ;
     int n[100];
@@ -87,7 +83,6 @@ int main() {
     			return main();
 			}
 		} while (false);
-
         switch (luachon) {
             case 1: {
                 system("cls");
